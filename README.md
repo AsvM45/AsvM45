@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AsvM45
-- 👀 I’m interested in getting good at code.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me asvathmadhan723@gmail.com
+- 👋 Howdy, I'm Asvath. I know C/C++/Java/Python. I have extensive experience in robotics.
+- 👀 I’m interested in Robotics/ML
+- 🌱 I’m currently imrpoving my Embedded Systems and Control Theory skills.
+- 💞️ I’m looking to collaborate on anything intresting/challenging, please reach out.
+- 📫 You can find me on Linkedin at https://www.linkedin.com/in/asvathm/ or email me at asvathmadhan723@gmail.com
 
 <!---
 AsvM45/AsvM45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
