@@ -1,7 +1,7 @@
-- 👋 Howdy, I'm Asvath. I am knowledgable in C/C++/Java/Python. I have extensive experience in robotics.
-- 👀 I’m interested in Robotics/ML
+- 👋 Howdy, I'm Asvath. I am knowledgeable in C/C++/Java/Python. I have extensive experience in robotics.
+- 👀 I’m interested in Robotics/ML.
 - 🌱 I’m currently imrpoving my Embedded Systems and Control Theory skills.
-- 💞️ I’m looking to collaborate on anything intresting/challenging, please reach out.
+- 💞️ I’m looking to collaborate on anything interesting/challenging, please reach out.
 - 📫 You can find me on Linkedin at https://www.linkedin.com/in/asvathm/ or email me at asvathmadhan723@gmail.com
 
 <!---
