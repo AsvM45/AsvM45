@@ -1,4 +1,4 @@
-- 👋 Howdy, I'm Asvath. I know C/C++/Java/Python. I have extensive experience in robotics.
+- 👋 Howdy, I'm Asvath. I am knowledgable in C/C++/Java/Python. I have extensive experience in robotics.
 - 👀 I’m interested in Robotics/ML
 - 🌱 I’m currently imrpoving my Embedded Systems and Control Theory skills.
 - 💞️ I’m looking to collaborate on anything intresting/challenging, please reach out.
